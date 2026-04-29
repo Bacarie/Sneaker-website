@@ -1,0 +1,29 @@
+{
+    "jordan4lightning": {
+        "brand": "Nike",
+        "title": "Air Jordan 4 Retro \"Lightning\"",
+        "price": "190,00 €",
+        "images": [
+            "../images/jordan4-1.jpg",
+            "../images/jordan4-2.jpg",
+            "../images/jordan4-3.jpg",
+            "../images/jordan4-4.jpg",
+            "../images/jordan4-5.jpg"
+        ],
+        "description": "La paire présente une tige blanche cassée en synthétique TPE au lieu du cuir traditionnel et reprend les codes de la Off-White x Air Jordan 5 Retro Black avec ses empiècements circulaires semi-translucides pouvant être découpés. L’ensemble est contrastée par des accents de noir et de rouge, une languette en 3M réfléchissant, finalisée par un « 23 » sur les côtés et les codes Off-White comme les inscriptions « SHOELACES » sur les lacets et sur les côtés intérieurs. Un côté vintage est apporté par la outsole translucide jaunie."
+    },
+    "jordan5": {
+        "brand": "Nike",
+        "title": "Air Jordan 5 Retro x Off-White",
+        "price": "225,00 €",
+        "images": [
+            "../images/jordan5off.jpg",
+            "../images/jordan5off-2.jpg",
+            "../images/jordan5off-3.jpg",
+            "../images/jordan5off-4.jpg",
+            "../images/jordan5off-5.jpg"
+        ],
+        "description": "La silhouette créée par le célèbre designer Tinker Hatfield, à qui l’on doit la majorité des classiques de Jordan, se pare d’une empeigne en cuir blanc contrastée par des accents de gris clair et de rouge à l’instar du logo Jumpman sur la languette, s’inspirant de la classique Air Jordan 4 White Cement de 1989. On retrouve le fameux cement print au niveau de la midsole et du système de laçage."
+    }
+}
+    

@@ -111,4 +111,46 @@ var LoginForm= document.getElementById("LoginForm");
             registerSpan.style.color = "black";
 
         }
+
+
+async function loadProductDetails() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const productId = urlParams.get('id');
+
+    if (!productId) return; 
+
+    try {
+        const response = await fetch('../data/products.json'); 
+        const productsData = await response.json();
+
+        if (productsData[productId]) {
+            const product = productsData[productId];
+
+            document.getElementById('product-brand').innerText = product.brand;
+            document.getElementById('product-title').innerText = product.title;
+            document.getElementById('product-price').innerText = product.price;
+            document.getElementById('product-desc').innerText = product.description;
+
+            document.getElementById('ProductImg').src = product.images[0];
+            
+            const smallImages = document.getElementsByClassName('small-img');
+            
+            for (let i = 0; i < smallImages.length; i++) {
+                if (product.images[i + 1]) { 
+                    smallImages[i].src = product.images[i + 1];
+                }
+            }
+            
+        } else {
+            document.getElementById('product-title').innerText = "Produit introuvable";
+        }
+    } catch (error) {
+        console.error("Erreur lors du chargement des données :", error);
+        document.getElementById('product-title').innerText = "Erreur de chargement";
+    }
+}
+
+if (window.location.pathname.includes('product.html')) {
+    loadProductDetails();
+}      
     
