@@ -6,6 +6,10 @@
 
 **Acid Sneaks** est un site e-commerce spécialisé dans la vente de sneakers exclusives et collaboratives. Le site propose une large sélection de paires recherchées, incluant des Air Jordan, Nike Air Max, Adidas et New Balance.
 
+### Contexte académique
+
+Ce projet a été réalisé dans le cadre de ma **première année d'école d'ingénieur** en tant que projet scolaire. Il démontre les compétences acquises en développement web front-end et en gestion de projets.
+
 ### Page Produit
 
 ![Produit - Air Jordan 1 Reverse Mocha](./images/Shoes/jordan1_vaa_1.png)
@@ -135,8 +139,8 @@ Le site est conçu pour être responsive et fonctionner sur :
 
 ## 👨‍💻 Auteur
 
-**Projet créé en 2022** - Acid Sneaks E-Commerce
+**Projet scolaire - 1ère année d'école d'ingénieur** - Acid Sneaks E-Commerce
 
 ---
 
-**Note** : Ce projet est à titre démonstratif et montre les capacités en développement front-end.
+**Note** : Ce projet est à titre académique et démontre les compétences en développement front-end acquises lors de ma première année d'école d'ingénieur.
