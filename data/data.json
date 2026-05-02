@@ -4,13 +4,13 @@
         "title": "Air Jordan 4 Retro \"Lightning\"",
         "price": "190,00 €",
         "images": [
-            "../images/jordan4-1.jpg",
-            "../images/jordan4-2.jpg",
-            "../images/jordan4-3.jpg",
-            "../images/jordan4-4.jpg",
-            "../images/jordan4-5.jpg"
+            "../images/Shoes/jordan4-1.jpg",
+            "../images/Shoes/jordan4-2.jpg",
+            "../images/Shoes/jordan4-3.jpg",
+            "../images/Shoes/jordan4-4.jpg",
+            "../images/Shoes/jordan4-5.jpg"
         ],
-        "description": "La paire présente une tige blanche cassée en synthétique TPE au lieu du cuir traditionnel et reprend les codes de la Off-White x Air Jordan 5 Retro Black avec ses empiècements circulaires semi-translucides pouvant être découpés. L’ensemble est contrastée par des accents de noir et de rouge, une languette en 3M réfléchissant, finalisée par un « 23 » sur les côtés et les codes Off-White comme les inscriptions « SHOELACES » sur les lacets et sur les côtés intérieurs. Un côté vintage est apporté par la outsole translucide jaunie."
+        "description": "Initialement introduite aux côtés du coloris Thunder en 2006, cette Air Jordan 4 se pare d’un coloris estival qui ne passe certainement pas inaperçue. Elle présente ainsi une empeigne en cuir jaune assortie à la doublure . On retrouve également un filet en TPE noir sur le quarter panel, des ailes en cuir gris anthracite, ainsi que des œillets métallisés. Par ailleurs, un Jumpman blanc est disposé sur l’étiquette de la languette et un Jumpman gris sur le talon. Enfin, une midsole blanche, rehaussée par une outsole grise, peaufine le design de Tinker Hatfield."
     },
     "jordan5": {
         "brand": "Nike",
@@ -36,7 +36,8 @@
             "../images/Shoes/airmaxplus7_4.png",
             "../images/Shoes/airmaxplus7_5.png"
         ],
-        "description": "L'Air Max Plus 7 poursuit la tradition des sneakers Nike Air Max avec sa technologie de coussin d'air confortable et son design moderne. Une chaussure parfaite pour combiner style et performance."
+        "description": "Avec une esthétique profondément ancrée dans la vision originale de Sean McDowell, la nouvelle silhouette dévoile une conception inspirée par le coucher de soleil observé en Floride. Perpétuant l’héritage, la paire comprend une tige en mesh à la fois orange et rose entourée de pointillés noirs, éléments classiques de la VII. Une pluie de couleurs sur laquelle se joint également une touche volt au niveau du swoosh et des unités d’air."
+
     },
     "airmax95neon": {
         "brand": "Nike",
@@ -49,7 +50,7 @@
             "../images/Shoes/airmax_95_neon_4.png",
             "../images/Shoes/airmax_95_neon_5.png"
         ],
-        "description": "La classique Air Max 95 revisitée avec des accents fluo neon pour un look urbain et dynamique. Combinant le design iconic de 1995 avec une touche contemporaine."
+        "description": "Pour les 30 ans du modèle, l’iconique Nike Air Max 95 OG Neon a le droit à un relooking avec une semelle Big Bubble, une version qui célèbre l’héritage de la marque et l’innovation. Imaginée en 1995 par le designer Sergio Lozano, la Air Max 95 s’inspire du corps humain et des muscles. Le modèle marque un tournant au niveau de la bulle d’air, qui devient pour la première fois visible à l’avant. Le modèle présente différentes nuances de gris, le tout réveillé par du vert néon. La déclinaison Big Bubble rend hommage aux premiers essais de Tinker Hatfield. À ses débuts, cette technologie a connu des soucis techniques lors de sa création, en effet, le coussin d’air trop imposant avait tendance à se fissurer lorsqu’il faisait froid. Contraint par les limites technologiques de l’époque, Nike a donc réduit la taille de l’unité Air afin de lancer la Air Max 1."
     },
     "jordan1union": {
         "brand": "Nike",
@@ -62,7 +63,7 @@
             "../images/Shoes/jordan1_union_5.png",
             "../images/Shoes/jordan1_union_1.png"
         ],
-        "description": "La collaboration Union x Air Jordan 1 est une fusion unique entre le streetwear et le basketball. Avec ses détails distinctifs et sa qualité premium, c'est une pièce incontournable pour les collectionneurs."
+        "description": "Fragment design, Union LA et Jordan Brand conjuguent leur savoir-faire pour revisiter l’iconique Air Jordan 1 High dans une nouvelle version déjà pressentie comme un incontournable. À la croisée des chemins entre héritage et audace stylistique, cette collaboration marie l’approche déconstruite propre à Union LA à l’esthétique épurée de Fragment Design. Une sortie majeure qui s’accompagne également de deux autres Air Jordan 1 High OG, réinterprétées dans un coloris Royal Blue et Black White. Cocktail explosif et références vintage, ce design emprunte la base de la classique « Black Toe » avec les codes « Royal » du label fragment design sur les talons et la semelle. On retrouve l’emblème éclair de Fragment mais aussi les surpiqûres en zig-zag et le tag UN/LA du shop californien. Une silhouette remixée et moderne qui devrait convaincre aussi bien les puristes que la nouvelle génération de sneakerheads."
     },
     "jordan1vaa": {
         "brand": "Nike",
@@ -75,7 +76,7 @@
             "../images/Shoes/jordan1_vaa_4.png",
             "../images/Shoes/jordan1_vaa_5.jpg"
         ],
-        "description": "Cette Air Jordan 1 combine les teintes mocha avec un design innovant. Une collaboration qui reflète l'esthétique street urbaine et la passion du basketball."
+        "description": "La paire rend ainsi hommage au regretté designer tout en célébrant le 40e anniversaire de Jordan Brand. Elle arborera un coloris full white et reprend les caractéristiques de la Air Jordan 1 High OG « Euro », introduite exclusivement en Europe au cours de l’année 2018. À peine commercialisée, cette paire s’était imposée comme un graal parmi les collectionneurs. Chargée d’histoire, elle symbolise également la collaboration révolutionnaire entre Nike et le visionnaire Virgil Abloh, ce qui explique son immense valeur sur le marché de la revente. On note par contre que l’inscription « Off-White » latérale a été remplacée par V.A.A. Le design baptisé « Alaska » fait référence au premier studio du designer fondé en 2017: Alaska Alaska. La paire met évidement l’accent sur un savoir-faire méticuleux avec un look déconstruit, des coutures apparentes et l’emblématique attache zippée, un bon nombre d’éléments synonymes de fusion entre la haute couture et le streetwear. La collaboration sera accompagnée d’un packaging commémoratif incluant un livret « Modernism Isn’t New » avec des croquis originaux et écrits de Virgil Abloh."
     },
     "jordan3seoul": {
         "brand": "Nike",
@@ -88,7 +89,7 @@
             "../images/Shoes/jordan3_seoul_4.png",
             "../images/Shoes/jordan3_seoul_3.png"
         ],
-        "description": "Inspirée par la ville de Séoul, cette Air Jordan 3 Retro célèbre la culture urbaine avec ses couleurs vibrantes et son design distinctif."
+        "description": "Initialement lancée en 2018, la première version de la Air Jordan 3 « Seoul » célébrait le 30ᵉ anniversaire des Jeux olympiques de Séoul et la victoire de Michael Jordan au concours de Dunk de la NBA en 1988. D’ailleurs, le mystère entourant son stock et sa distribution exclusive à Séoul n’a fait que renforcer son caractère rare et inatteignable, lors de sa release. Fidèle à l’originale, la silhouette de 2025 revient en rayon avec la même palette de couleurs, agrémentée de blanc, bleu et rouge. Dans cette continuité, l’emblématique Nike Air et le drapeau coréen sur la languette restent inchangés contrairement à l’elephant print réinventé avec un look vieilli et vintage. On remarque également quelques changements au niveau de la section bleu royal qui troque son cuir pour du coton, faisant écho aux vêtements traditionnels coréens. D’ailleurs, la première version comportait des inscriptions coréennes derrière la languette et ce prochain modèle conserve aussi ces éléments !"
     },
     "jordan4sb": {
         "brand": "Nike",
@@ -101,7 +102,7 @@
             "../images/Shoes/jordan4sb_43.png",
             "../images/Shoes/jordan4sb_5.png"
         ],
-        "description": "La version SB de l'Air Jordan 4 apporte une touche skateboard au classique Jordan. Avec ses détails renforcés pour la performance en skate et son esthétique premium."
+        "description": "La silhouette imaginée par Tinker Hatfield en 1989 affiche ici un upper en cuir blanc cassé accompagné d’un mudguard en suede gris. De nombreux accents verts apportent une touche de couleur. On les retrouve notamment au niveau des œillets, du heeltab et de la midsole blanche. Un branding Nike SB prend place sur le talon au lieu du traditionnel Nike Air et un Jumpman rouge est disposé sur la languette. Une gumsole apporte la touche finale. Sachez enfin que la paire s’accompagne d’une special box à l’effigie du co-branding. Il faut aussi noter que la silhouette a bien été repensée pour la pratique du skate. Tout d’abord, elle dispose d’un upper déconstruit qui s’assouplit rapidement et les éléments en TPU sont plus souples donc plus flexibles. Qui plus est, les parties en gomme sur l’outsole procurent une traction améliorée et le col de la cheville rembourré fournit davantage de maintien. Enfin, l’avant-pied est fuselé pour procurer de bonnes sensations de contact avec la planche."
     },
     "jordan4bred": {
         "brand": "Nike",
@@ -114,7 +115,7 @@
             "../images/Shoes/jordan4_bred_4.png",
             "../images/Shoes/jordan4_bred_5.png"
         ],
-        "description": "L'incontournable Air Jordan 4 \"Bred\" avec son colorway noir et rouge iconique. Un classique intemporel qui représente le legacy de Michael Jordan."
+        "description": "Débutée avec la Air Jordan 1 High OG Lost & Found fin 2022, la collection revisitant des modèles Air Jordan iconiques avec un aspect vintage est sur le point de se poursuivre avec la très attendue Air Jordan 3 White Cement Reimagined. En plus de deux lourdes sorties prévues fin 2023 avec la Air Jordan 1 High OG Royal Reimagined ainsi qu’une Air Jordan 1 High OG Black Toe Reimagined fin 2024, Jordan Brand semble vouloir nous gâter davantage avec une réédition qui devrait faire le bonheur des sneakerheads. En effet, ce serait au tour de la mythique Air Jordan 4 Bred de subir le même traitement. Initialement sortie en 1989 et également connue sous le nom de « Black Cement », cette AJ4 imaginée par Tinker Hatfield a déjà fait l’objet de cinq versions rétros. La dernière en date, fidèle à l’originale, est sortie en 2019 pour les 30 ans de la paire. Pour la petite histoire, le modèle est celui que portait Michael Jordan lors du 5ème match de playoffs face aux Cleveland Cavaliers le 7 mai 1989. Grâce à un tir au buzzer, “The Shot”, face au pauvre défenseur Craig Ehlo, le GOAT donnait la victoire aux Bulls."
     },
     "jordan6infrared": {
         "brand": "Nike",
@@ -127,7 +128,46 @@
             "../images/Shoes/jordan6_infrared_4.png",
             "../images/Shoes/jordan6_infrared_5.png"
         ],
-        "description": "L'Air Jordan 6 \"Infrared\" présente le célèbre colorway avec ses accents rouge infrarouge sur noir. Un design emblématique de l'ère d'or de Michael Jordan."
+        "description": "Ce coloris mythique sorti initialement en 1991, inspiré par celui des Chicago Bulls, est doté d’un upper en suede noir. Des touches de rouge Infrared, ainsi qu’une outsole translucide icy apportent du contraste au design de Tinker Hatfield. Jordan Brand a déjà réédité la Air Jordan VI Black Infrared plusieurs fois, en 2000, 2010 puis en 2014. Toutefois, la dernière retro présentait une teinte « Infrared 23 » plus rose que rouge. Cette nouvelle réédition devrait être plus fidèle à l’originale pour le plus grand bonheur des aficionados du modèle. Les Air Jordan 6 Black Infrared seront disponibles le samedi 16 février 2019 sur Nike.com et chez certains revendeurs de la marque. Des tailles GS seront aussi proposées pour les petits pieds."
+    },
+    "adipredbape": {
+        "brand": "adidas",
+        "title": "Predator x Bape",
+        "price": "220,00 €",
+        "images": [
+            "../images/Shoes/adidas_pred_bape_1.jpg",
+            "../images/Shoes/adidas_pred_bape_2.jpg",
+            "../images/Shoes/adidas_pred_bape_3.jpg",
+            "../images/Shoes/adidas_pred_bape_4.jpg",
+            "../images/Shoes/adidas_pred_bape_5.jpg"
+        ],
+        "description": "La collaboration Adidas Predator x Bape réunit deux univers iconiques du streetwear et du football. Avec ses détails distinctifs et sa semelle performante, c'est une pièce exclusive."
+    },
+    "campusbadun": {
+        "brand": "adidas",
+        "title": "Campus Bad Bunny",
+        "price": "145,00 €",
+        "images": [
+            "../images/Shoes/campus_badbunny_1.jpg",
+            "../images/Shoes/campus_bad_bunny_2.jpg",
+            "../images/Shoes/campus_bad_bunny_3.jpg",
+            "../images/Shoes/campus_bad_bunny_4.jpg",
+            "../images/Shoes/campus_bad_bunny_5.jpg"
+        ],
+        "description": "La collaboration adidas Campus avec le célèbre artiste Bad Bunny. Cette sneaker allie le design classique du Campus avec une esthétique urbaine et contemporaine."
+    },
+    "nbBalance990v4": {
+        "brand": "New Balance",
+        "title": "New Balance 990v4",
+        "price": "210,00 €",
+        "images": [
+            "../images/Shoes/new_balance_990V4_1.jpg",
+            "../images/Shoes/new_balance_990V4_2.jpg",
+            "../images/Shoes/new_balance_990V4_3.jpg",
+            "../images/Shoes/new_balance_990V4_4.jpg",
+            "../images/Shoes/new_balance_990V4_5.jpg"
+        ],
+        "description": "La New Balance 990v4 est un classique incontournable. Avec sa construction premium et son confort signature, elle offre le meilleur de New Balance en matière de style et de performance."
     }
     
 }
