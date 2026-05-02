@@ -23,7 +23,110 @@
             "../images/Shoes/jordan5off_4.jpg",
             "../images/Shoes/jordan5off_5.jpg"
         ],
-        "description": "La silhouette créée par le célèbre designer Tinker Hatfield, à qui l’on doit la majorité des classiques de Jordan, se pare d’une empeigne en cuir blanc contrastée par des accents de gris clair et de rouge à l’instar du logo Jumpman sur la languette, s’inspirant de la classique Air Jordan 4 White Cement de 1989. On retrouve le fameux cement print au niveau de la midsole et du système de laçage."
+        "description": "La paire présente une tige blanche cassée en synthétique TPE au lieu du cuir traditionnel et reprend les codes de la Off-White x Air Jordan 5 Retro Black avec ses empiècements circulaires semi-translucides pouvant être découpés. L’ensemble est contrastée par des accents de noir et de rouge, une languette en 3M réfléchissant, finalisée par un « 23 » sur les côtés et les codes Off-White comme les inscriptions « SHOELACES » sur les lacets et sur les côtés intérieurs. Un côté vintage est apporté par la outsole translucide jaunie."
+    },
+    "airmaxplus7": {
+        "brand": "Nike",
+        "title": "Air Max Plus 7",
+        "price": "165,00 €",
+        "images": [
+            "../images/Shoes/airmaxplus7_1.png",
+            "../images/Shoes/airmaxplus7_2.png",
+            "../images/Shoes/airmaxplus7_3.png",
+            "../images/Shoes/airmaxplus7_4.png",
+            "../images/Shoes/airmaxplus7_5.png"
+        ],
+        "description": "L'Air Max Plus 7 poursuit la tradition des sneakers Nike Air Max avec sa technologie de coussin d'air confortable et son design moderne. Une chaussure parfaite pour combiner style et performance."
+    },
+    "airmax95neon": {
+        "brand": "Nike",
+        "title": "Air Max 95 Neon",
+        "price": "175,00 €",
+        "images": [
+            "../images/Shoes/airmax_95_neon_1.png",
+            "../images/Shoes/airmax_95_neon_2.png",
+            "../images/Shoes/airmax_95_neon_3.png",
+            "../images/Shoes/airmax_95_neon_4.png",
+            "../images/Shoes/airmax_95_neon_5.png"
+        ],
+        "description": "La classique Air Max 95 revisitée avec des accents fluo neon pour un look urbain et dynamique. Combinant le design iconic de 1995 avec une touche contemporaine."
+    },
+    "jordan1union": {
+        "brand": "Nike",
+        "title": "Air Jordan 1 Retro High x Union",
+        "price": "210,00 €",
+        "images": [
+            "../images/Shoes/jordan1_union_1.png",
+            "../images/Shoes/jordan1_union_3.png",
+            "../images/Shoes/jordan1_union_4.png",
+            "../images/Shoes/jordan1_union_5.png",
+            "../images/Shoes/jordan1_union_1.png"
+        ],
+        "description": "La collaboration Union x Air Jordan 1 est une fusion unique entre le streetwear et le basketball. Avec ses détails distinctifs et sa qualité premium, c'est une pièce incontournable pour les collectionneurs."
+    },
+    "jordan1vaa": {
+        "brand": "Nike",
+        "title": "Air Jordan 1 Retro High x Travis Scott \"Reverse Mocha\"",
+        "price": "195,00 €",
+        "images": [
+            "../images/Shoes/jordan1_vaa_1.png",
+            "../images/Shoes/jordan1_vaa_2.png",
+            "../images/Shoes/jordan1_vaa_3.png",
+            "../images/Shoes/jordan1_vaa_4.png",
+            "../images/Shoes/jordan1_vaa_5.jpg"
+        ],
+        "description": "Cette Air Jordan 1 combine les teintes mocha avec un design innovant. Une collaboration qui reflète l'esthétique street urbaine et la passion du basketball."
+    },
+    "jordan3seoul": {
+        "brand": "Nike",
+        "title": "Air Jordan 3 Retro \"Seoul\"",
+        "price": "185,00 €",
+        "images": [
+            "../images/Shoes/jordan3_seoul_1.png",
+            "../images/Shoes/jordan3_seoul_2.png",
+            "../images/Shoes/jordan3_seoul_3.png",
+            "../images/Shoes/jordan3_seoul_4.png",
+            "../images/Shoes/jordan3_seoul_3.png"
+        ],
+        "description": "Inspirée par la ville de Séoul, cette Air Jordan 3 Retro célèbre la culture urbaine avec ses couleurs vibrantes et son design distinctif."
+    },
+    "jordan4sb": {
+        "brand": "Nike",
+        "title": "Air Jordan 4 Retro SB",
+        "price": "200,00 €",
+        "images": [
+            "../images/Shoes/jordan4sb_1.png",
+            "../images/Shoes/jordan4sb_2.png",
+            "../images/Shoes/jordan4sb_4.png",
+            "../images/Shoes/jordan4sb_43.png",
+            "../images/Shoes/jordan4sb_5.png"
+        ],
+        "description": "La version SB de l'Air Jordan 4 apporte une touche skateboard au classique Jordan. Avec ses détails renforcés pour la performance en skate et son esthétique premium."
+    },
+    "jordan4bred": {
+        "brand": "Nike",
+        "title": "Air Jordan 4 Retro \"Bred\"",
+        "price": "195,00 €",
+        "images": [
+            "../images/Shoes/jordan4_bred_1.png",
+            "../images/Shoes/jordan4_bred_2.png",
+            "../images/Shoes/jordan4_bred_3.png",
+            "../images/Shoes/jordan4_bred_4.png",
+            "../images/Shoes/jordan4_bred_5.png"
+        ],
+        "description": "L'incontournable Air Jordan 4 \"Bred\" avec son colorway noir et rouge iconique. Un classique intemporel qui représente le legacy de Michael Jordan."
+    },
+    "jordan6infrared": {
+        "brand": "Nike",
+        "title": "Air Jordan 6 Retro \"Infrared\"",
+        "price": "205,00 €",
+        "images": [
+            "../images/Shoes/jordan6_infrared_1.png",
+            "../images/Shoes/jordan6_infrared_2.png",
+            "../images/Shoes/jordan6_infrared_3.png",
+            "../images/Shoes/jordan6_infrared_4.png",
+            "../images/Shoes/jordan6_infrared_5.png"
+        ],
+        "description": "L'Air Jordan 6 \"Infrared\" présente le célèbre colorway avec ses accents rouge infrarouge sur noir. Un design emblématique de l'ère d'or de Michael Jordan."
     }
-}
     
