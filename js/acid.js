@@ -120,7 +120,7 @@ async function loadProductDetails() {
     if (!productId) return; 
 
     try {
-        const response = await fetch('../data/products.json'); 
+        const response = await fetch('../data/data.json'); 
         const productsData = await response.json();
 
         if (productsData[productId]) {
