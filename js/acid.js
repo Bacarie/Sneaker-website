@@ -117,14 +117,28 @@ async function loadProductDetails() {
     const urlParams = new URLSearchParams(window.location.search);
     const productId = urlParams.get('id');
 
-    if (!productId) return; 
+    console.log("Product ID from URL:", productId);
+
+    if (!productId) {
+        console.warn("Pas d'ID de produit trouvé");
+        return;
+    }
 
     try {
         const response = await fetch('../data/data.json'); 
+        console.log("Fetch response status:", response.status);
+        
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
         const productsData = await response.json();
+        console.log("Données chargées:", productsData);
+        console.log("Cherche le produit:", productId);
 
         if (productsData[productId]) {
             const product = productsData[productId];
+            console.log("Produit trouvé:", product);
 
             document.getElementById('product-brand').innerText = product.brand;
             document.getElementById('product-title').innerText = product.title;
@@ -142,6 +156,7 @@ async function loadProductDetails() {
             }
             
         } else {
+            console.error("Produit non trouvé. IDs disponibles:", Object.keys(productsData));
             document.getElementById('product-title').innerText = "Produit introuvable";
         }
     } catch (error) {
